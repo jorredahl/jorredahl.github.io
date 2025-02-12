@@ -14,13 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jorre's Profile
-email:
+email: jorredahl@comcast.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  This is my profile site, I can write blog posts here or post 
+  some of my projects here, just like my portfolio site.
+github_username: jorredahl
 minimal_mistakes_skin: default
 search: true
 
@@ -62,18 +60,24 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
+    - label: "My Portfolio"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://jorredahl.github.io/portfolio"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/jorredahl"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/jorre-dahl-a1688420b/"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/jorre-dahl-a1688420b/"
 
 defaults:
   # _posts
