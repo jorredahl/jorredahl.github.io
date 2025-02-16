@@ -57,8 +57,9 @@ plugins:
 author:
   name   : "Jorre Dahl"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "This is my profile site, I can write blog posts here or post 
-  some of my projects here, just like my portfolio site."
+  bio    : "This is my profile site, I can write blog posts or put up 
+  some of my newest projects here. If you want a more in-depth view of 
+  my projects, check out my portfolio site."
   links:
     - label: "My Portfolio"
       icon: "fas fa-fw fa-link"
