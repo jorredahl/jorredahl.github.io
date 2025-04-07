@@ -11,4 +11,4 @@ I have recently started a [project](https://github.com/jorredahl/OR-Gerrymander-
 
 On the other hand, this method will allow me to approach the actual coding with a more clear understanding of what needs to be done. In this way, time spent earlier is equal to time saved later on. I think that doing plans for my code beforehand will result in a quicker process of being able to publish my results. Additionally, this method will make it easier for others to see my work and note where I may not be writing enough or anything at all, and where my code may be making a mistake.
 
-If you want to see an html summary of this project, click this [link](../../assets/01-R-markdown.html).
+If you want to see an html summary of this project, click this [link](https://jorredahl.github.io/OR-Gerrymander-Alabama/report/10-Gerrymander-Analysis.html).
